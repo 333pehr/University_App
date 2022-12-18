@@ -1,4 +1,4 @@
-# raceproject
+# UniversityApplication
 
 A new Flutter project.
 
