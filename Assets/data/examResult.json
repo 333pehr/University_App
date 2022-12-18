@@ -1,0 +1,32 @@
+{"examresults": [
+    {
+      "result": 100,
+      "id": 1,
+      "exam": "midterm",
+      "course": "Data Structures"
+    },
+    {
+      "result": 50,
+      "id": 2,
+      "exam": "midterm",
+      "course": "Digital Logic"
+    },
+    {
+      "result": 75,
+      "id": 3,
+      "exam": "midterm",
+      "course": "Numerical Methods"
+    },
+    {
+      "result": 40,
+      "id": 4,
+      "exam": "midterm",
+      "course": "Algorithm Design"
+    },
+    {
+      "result": 85,
+      "id": 1,
+      "exam": "midterm",
+      "course": "Object Oriented Programming"
+    }
+  ]}

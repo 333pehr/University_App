@@ -1,0 +1,52 @@
+{
+  "busses": [
+    {
+      "number": "101",
+      "route": "Otogar-Cuma pazari-Alantur",
+      "hour": "15 min",
+      "id": 1
+    },
+    {
+      "number": "202B",
+      "route": "Dinek-konya Çimento-Üniversite",
+      "hour": "15 min",
+      "id": 2
+    },
+    {
+      "number": "202A",
+      "route": "Dinek-Akropol-Üniversite",
+      "hour": "15 min",
+      "id": 3
+    },
+    {
+      "number": "303",
+      "route": "Dinek-Üniversite-Tosmur",
+      "hour": "25 min",
+      "id": 4
+    },
+    {
+      "number": "305",
+      "route": "Üniversite-Mahmutlar-Kargicak",
+      "hour": "45 min",
+      "id": 5
+    },
+    {
+      "number": "1",
+      "route": "Otogar-Kestel-Kargicak",
+      "hour": "15 min",
+      "id": 6
+    },
+    {
+      "number": "2-B",
+      "route": "Mahmutlar-Alanyum-Cuma Pazar",
+      "hour": "15 min",
+      "id": 7
+    },
+    {
+      "number": "3",
+      "route": "Dinek-Alanyum-Kestel",
+      "hour": "30 min",
+      "id": 8
+    }
+  ]
+}

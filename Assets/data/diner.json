@@ -1,0 +1,49 @@
+{
+  "diningHours": [
+    {
+      "day": "Monday",
+      "date": "19.12.2022",
+      "soap": "Sebze Corba (131 kcal)",
+      "Main Dish": "Et Döner(250 kcal)",
+      "garniture": "Pilav(274 kcal)",
+      "drinks or desserts": "Ayran(74 kcal)",
+      "id": 1
+    },
+    {
+      "day": "Tuesday",
+      "date": "20.12.2022",
+      "soap": "TAVUK SUYU ÇORBA (199 KCAL)",
+      "Main Dish": "ETLİ BEZELYE (205 KCAL)",
+      "garniture": "PEYNİRLİ GÜL BÖREĞİ (320 KCAL)",
+      "drinks or desserts": "VİŞNE KOMPOSTO (240 KCAL)",
+      "id": 2
+    },
+    {
+      "day": "Wendesday",
+      "date": "21.12.2022",
+      "soap": "YAYLA ÇORBA (162 KCAL)",
+      "Main Dish": "ETLİ NOHUT (198 KCAL)",
+      "garniture": "BULGUR PİLAVI (263 KCAL)",
+      "drinks or desserts": "KARIŞIK TURŞU (45 KCAL)",
+      "id": 3
+    },
+    {
+      "day": "Thursday",
+      "date": "22.12.2022",
+      "soap": "KREMALI MANTAR ÇORBASI (176 KCAL)",
+      "Main Dish": "İÇLİ KÖFTE (456 KCAL)",
+      "garniture": "KARIŞIK KIZARTMA (YOĞURTLU) (261 KCAL)",
+      "drinks or desserts": "PORTAKAL (98 KCAL)",
+      "id": 4
+    },
+    {
+      "day": "Friday",
+      "date": "23.12.2022",
+      "soap": "EZOGELİN ÇORBA (269 KCAL)",
+      "Main Dish": "TAVUK SNİTZEL (295 KCAL)",
+      "garniture": "SOSLU MAKARNA (265 KCAL)",
+      "drinks or desserts": "HAVUÇ- KIRMIZI LAHANA SALATASI (105 KCAL)",
+      "id": 5
+    }
+  ]
+}
